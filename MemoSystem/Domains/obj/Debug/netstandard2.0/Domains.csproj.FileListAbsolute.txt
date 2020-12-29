@@ -1,0 +1,9 @@
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\bin\Debug\netstandard2.0\Domains.deps.json
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\obj\Debug\netstandard2.0\Domains.csprojAssemblyReference.cache
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfoInputs.cache
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfo.cs
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\obj\Debug\netstandard2.0\Domains.csproj.CoreCompileInputs.cache
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\obj\Debug\netstandard2.0\Domains.dll
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\Domains\obj\Debug\netstandard2.0\Domains.pdb

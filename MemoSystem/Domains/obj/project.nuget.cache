@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QikFsC+8Q3Wu/kvdXneemRAwfFTRnQ2hMYVpJOo5rcZgQoB2tEGYppLj/qq3oa6G5gvB+03x1aJ+JG8rIkkXlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abanob Magdy\\Desktop\\My-GitHub\\Memo\\MemoSystem\\Domains\\Domains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abanob Magdy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abanob Magdy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

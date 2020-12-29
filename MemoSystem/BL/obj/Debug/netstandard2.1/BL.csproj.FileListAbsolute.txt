@@ -1,0 +1,12 @@
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\bin\Debug\netstandard2.1\BL.deps.json
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\bin\Debug\netstandard2.1\BL.dll
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\bin\Debug\netstandard2.1\BL.pdb
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\bin\Debug\netstandard2.1\Domains.dll
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\bin\Debug\netstandard2.1\Domains.pdb
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.csprojAssemblyReference.cache
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.AssemblyInfoInputs.cache
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.AssemblyInfo.cs
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.dll
+C:\Users\Abanob Magdy\Desktop\My-GitHub\Memo\MemoSystem\BL\obj\Debug\netstandard2.1\BL.pdb
